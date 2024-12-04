@@ -1,0 +1,143 @@
+/* global.module.css */
+
+.Resume{
+  font-size: xx-large;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color:white;
+  text-decoration: underline;
+  background-color:black;
+  height: 3%;
+  
+  
+  
+}
+
+.container {
+  
+  padding: 0%;
+  margin-top: 0%;
+  display: flex;
+  background-origin: padding-box;
+  background-color: blue;
+  box-sizing: border-box;
+  justify-content:space-evenly;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: azure;
+  max-height: 90vh; /* Set a max height */
+  overflow-y: auto;
+}
+
+
+
+
+.name {
+  font-size: xx-large;
+  font-weight: 700;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style:inherit;
+  color: blue;
+  text-decoration: lightpink;
+}
+
+.design{
+  font-size: large;
+  font-weight: bold ;
+}
+
+.image{
+  background: none;
+  max-width: 900%; 
+  height: auto;   
+  border-radius: 100px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  margin-bottom: 20px;
+  background-color: bisque;
+}
+
+.About{
+  text-decoration: underline;
+  padding: 2%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.work{
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.icon{
+  color: #2c3e50; /* Change to your preferred color */
+margin-right: 5px; 
+vertical-align:right; 
+transition: color 0.3s;
+align-items: flex-end;
+
+}
+.icon:hover {
+  color: #3498db; /* Change color on hover */
+}
+
+
+.Contact{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+
+}
+
+.Language{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.Education{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.Experience{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.Skills{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.Hobbies{
+  text-decoration: underline;
+  padding: 5%;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.font{
+  font-size: large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  
+  
+}
